@@ -1,3 +1,5 @@
+package br.com.leonardosilva;
+
 import java.util.Scanner;
 
 public class Main {
