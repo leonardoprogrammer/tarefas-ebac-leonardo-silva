@@ -1,0 +1,30 @@
+1. Abro os olhos
+2. Levanto da cama
+3. Calço meus chinelos
+4. Vou ao banheiro
+5. Ligo o chuveiro
+6. Tomo banho
+7. Desligo o chuveiro
+8. Pego a toalha
+9. Me enxugo
+10. Me enrolo na toalha
+11. Vou ao meu quarto
+12. Pego minhas roupas
+13. Me visto
+14. Volto ao banheiro
+15. Deixo a toalha
+16. Vou à cozinha
+17. Abro a geladeira
+18. Pego achocolatado
+19. Fecho a geladeira
+20. Pego o pão
+21. Pego caneca
+22. Despejo achocolatado no copo
+23. Abro embalagem de pão
+24. Pego um pão
+25. Vou à geladeira
+26. Abro a geladeira
+27. Guardo achocolatado
+28. Guardo pão
+29. Fecho geladeira
+30. Tomo café da manhã
