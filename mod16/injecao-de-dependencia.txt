@@ -1,0 +1,5 @@
+Injeção de Dependência é um padrão de projeto muito utilizado, principalmente com Spring, para reduzir o acoplamento entre as classes, deixando o código mais prático, reútilizável e menos verboso. Em vez de uma classe ser responsável por criar os objetos que ela precisa utilizar, o próprio Spring faz esse gerenciamento e entrega as dependências prontas para uso.
+
+Utilizando o Spring como exemplo, os objetos gerenciados pelo framework são chamados de "Beans". Quando em uma classe é adicionada uma anotação como Service, Component, Repository ou Controller, o Spring passa a controlar sua criação automaticamente. Assim, ao precisar utilizar uma classe dentro da outra basta receber esta dependência pelo construtor, permitindo que o Spring faça a injeção automaticamente. Por isso o nome: "Injeção de Dependência".
+
+Esse padrão também facilita muito a realização de testes, já que as dependências podem ser substituídas por implementações simuladas sem alterar a lógica principal da aplicação. A forma mais recomendada de utilizar Injeção de Dependência no Spring é por meio do construtor, pois deixa o código mais seguro e facilita a manutenção do sistema.
